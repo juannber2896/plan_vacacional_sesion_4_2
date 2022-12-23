@@ -1,0 +1,28 @@
+h1{
+    color: #eb5694;
+}
+
+p{
+    color: #ff7f3f;
+    background-color: #fbdf07;
+}
+
+h3{
+    color: rgb(72, 0, 0);
+}
+
+h4{
+    color: rgba(255, 99, 71, 0.2);
+}
+
+#encabezado-seis{
+    color: red;
+}
+
+.text-danger{
+    color: red;
+}
+
+.bg-blue{
+    background-color: blue;
+}
